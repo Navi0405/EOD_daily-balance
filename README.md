@@ -1,4 +1,4 @@
-Install the following:
+Dependencies:
 
 pandas
 numpy
